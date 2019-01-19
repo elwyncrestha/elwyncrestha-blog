@@ -1,9 +1,9 @@
-title: Elvin Shrestha Test Blog
+title: Elvin Shrestha Blog
 author: GitHub User
 email: elwyncrestha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is just a test blog. I may not update this 
-  blog as time passes.
+  This is my GitHub blog which will provide 
+  brief information about my GitHub repositories.
 
 # social links
 twitter_username: elwyncrestha
