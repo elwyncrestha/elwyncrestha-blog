@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Elvin Shrestha Test Blog
+author: GitHub User
+email: elwyncrestha@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is just a test blog. I may not update this 
+  blog as time passes.
+
+# social links
+twitter_username: elwyncrestha
+github_username:  elwyncrestha
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
