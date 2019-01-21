@@ -13,7 +13,4 @@ Features:
 * URL Filters
 * Database - MySQL (SQL file kept inside the repository)
 
-# Example Screenshots
-
-
 Find it in GitHub: [here](https://github.com/elwyncrestha/InstituteManagementSystem)
