@@ -13,4 +13,6 @@ Features:
 * URL Filters
 * Database - MySQL (SQL file kept inside the repository)
 
+__Requires a web container to run. Example: Apache Tomcat__
+
 Find it in GitHub: [here](https://github.com/elwyncrestha/InstituteManagementSystem)
