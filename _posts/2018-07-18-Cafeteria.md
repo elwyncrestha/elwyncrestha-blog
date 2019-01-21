@@ -11,6 +11,6 @@ Features:
 * ~~No database~~ (Static application)
 
 ## Example Screenshot
-![Cafeteria Screenshot](https://raw.githubusercontent.com/elwyncrestha/elwyncrestha-blog/add-blog-posts-with-image/assets/images/Cafeteria.JPG)
+![Cafeteria Screenshot](https://raw.githubusercontent.com/elwyncrestha/elwyncrestha-blog/master/assets/images/Cafeteria.JPG)
 
 Find it in GitHub: [here](https://github.com/elwyncrestha/Cafeteria)
