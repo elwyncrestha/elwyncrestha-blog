@@ -13,4 +13,7 @@ Features:
 * 9 major pages
 * ~No framework used~
 
+# Screenshot
+![Tropical Rainforests Trust Screenshot](https://raw.githubusercontent.com/elwyncrestha/elwyncrestha-blog/master/assets/images/TropicalRainforestsTrust.png)
+
 Find it in GitHub: [here](https://github.com/elwyncrestha/TropicalRainforestsTrust)
