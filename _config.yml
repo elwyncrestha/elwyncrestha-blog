@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   brief information about my GitHub repositories.
 
 # social links
-twitter_username: elwyncrestha
 github_username:  elwyncrestha
 
 show_excerpts: true # set to false to remove excerpts on the homepage
