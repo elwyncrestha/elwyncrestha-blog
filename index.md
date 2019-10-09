@@ -1,4 +1,4 @@
-# Welcome to my GitHub blog
+# Welcome to my GitHub blog [Dis-continued]
 
 In this blog, I'll provide brief information about the projects that I've kept in my [GitHub repositories](https://github.com/elwyncrestha/repositories)
 
